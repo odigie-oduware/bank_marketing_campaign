@@ -2,9 +2,11 @@
 
 ## **Overview**
 This project focuses on cleaning and analyzing data from a bank's marketing campaign. The goal is to explore customer information, clean the dataset, and uncover patterns that explain why some customers choose to subscribe to a term deposit. By analyzing this data, we can provide insights to improve future marketing strategies.
+
 ---
 ## **Business Problem**
 Bank marketing campaigns often target a large number of customers, but only a few respond positively. Understanding which customers are likely to subscribe can help banks focus their efforts, reduce costs, and improve success rates.
+
 ---
 ## **Objectives**
 1. Clean and prepare the data for analysis by handling missing values, errors, and inconsistencies.
@@ -73,3 +75,5 @@ The dataset used in this project is the **Bank Marketing Dataset**, which is pub
 - **Pandas**: Data manipulation and cleaning.
 - **Seaborn & Matplotlib**: Data visualization.
 - **Jupyter Notebook**: Interactive environment for analysis.
+
+
